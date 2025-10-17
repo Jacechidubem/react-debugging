@@ -74,7 +74,7 @@ After saving and refreshing:
 
 ---
 ## initial project structure
-![Debugging Screenshot](./assets/initialinterface.png)
+![Debugging Screenshot](./src/assets/initialinterface.png)
 - Here you can see the count is not  working properly and also not displaying the correct value
 
 
@@ -82,5 +82,5 @@ After saving and refreshing:
 
 ##  Final Project Structure
 
-![Debugging Screenshot](./assets/fixedinterface.png)
+![Debugging Screenshot](./src/assets/fixedinterface.png)
 - Here you can see the count is working properly and also displaying the correct value
